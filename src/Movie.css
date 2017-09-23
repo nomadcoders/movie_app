@@ -30,6 +30,7 @@
 .Movie .Movie__Genres{
     display: flex;
     flex-wrap:wrap;
+    margin-bottom:20px;
 }
 
 .Movie__Genres .Movie__Genre{
