@@ -6,6 +6,7 @@
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-lines-ellipsis": "^0.7.3",
     "react-scripts": "1.0.13"
   },
   "scripts": {
