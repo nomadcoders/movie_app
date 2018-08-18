@@ -1,0 +1,24 @@
+{
+  "name": "movie_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-lines-ellipsis": "^0.7.3",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "http://nomadcoders.github.io/movie_app",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
